@@ -22,7 +22,7 @@ _{cunderwoodmn [at] gmail {dot} com}_
 
 ## Technologies Used
 
-_{vanilla js, node.js, express, html, npm}_
+_{vanilla js, node.js, express, html, npm, pug, nodemon}_
 
 ### License
 
