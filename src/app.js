@@ -5,8 +5,11 @@ const posts = require('./mock/posts.json');
 
 let app = express();
 
+app.set('view engine', 'pug');
+app.set('views', __dirname + '/templates');
+
 app.get('/', (req, res) => {
-  res.send('<h1>Node.js is interesting.</h1>');
+  res.render('index');
 });
 
 app.get('/blog/:title?', (req, res) => {
