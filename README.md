@@ -10,7 +10,7 @@ _{A very simple Express & Node.js application that prints html to the screen.}_
 
 ## Setup/Installation Requirements
 
-_{Download the application to a folder of your choice. Run npm install to set up the dependencies and npm src/app.js to activate the application. Go to localhost:3000 in your browser should show you the application.}_
+_{Download the application to a folder of your choice. Run npm install to set up the dependencies and node src/app.js to activate the application. Go to localhost:3000 in your browser should show you the application.}_
 
 ## Known Bugs
 
